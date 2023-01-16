@@ -34,8 +34,6 @@ Make to set up variables in the `config.toml`
 - `bot.token`         Discord Bot Token to make requests to the API and connect to the websocket
 - `bot.owners`        Set at least one owner so that you can run `update` command for slash commands
 - `bot.server`        Server ID of the discord server bot will be running on (required to set up slash commands)
-- `mineminenomi.ftp`  SFTP client will run into errors while trying to connect
-- `mineminenomi.rcon` This is required mostly for account linking and using `rcon` command
 
 <hr>
 
